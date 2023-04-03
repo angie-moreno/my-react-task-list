@@ -2,21 +2,21 @@
   {
     "id": 1,
     "task": "mercar",
-    "completed": false,
+    "completed": false
   },
   {
     "id": 2,
     "task": "cocinar",
-    "completed": false,
+    "completed": false
   },
   {
     "id": 3,
     "task": "lavar ropa",
-    "completed": true,
+    "completed": true
   },
   {
     "id": 4,
     "task": "planchar",
-    "completed": false,
-  },
-];
+    "completed": false
+  }
+]
